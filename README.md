@@ -1,4 +1,4 @@
-# HR-Analytics
+# HR-Analytics SQL and Power BI
 Questions:-
 1. What is the gender breakdown of employees in the company?
 2. What is the race/ethnicity breakdown of employees in the company?
